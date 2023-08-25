@@ -3,6 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chapter-01-OOP/chapter-01-OOP.iml" filepath="$PROJECT_DIR$/chapter-01-OOP/chapter-01-OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-02-OOP/chapter-02-OOP.iml" filepath="$PROJECT_DIR$/chapter-02-OOP/chapter-02-OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-03-OOP/chapter-03-OOP.iml" filepath="$PROJECT_DIR$/chapter-03-OOP/chapter-03-OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-04-API/chapter-04-API.iml" filepath="$PROJECT_DIR$/chapter-04-API/chapter-04-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-05-API/chapter-05-API.iml" filepath="$PROJECT_DIR$/chapter-05-API/chapter-05-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-06-Lambda/chapter-06-Lambda.iml" filepath="$PROJECT_DIR$/chapter-06-Lambda/chapter-06-Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-07-Collection/chapter-07-Collection.iml" filepath="$PROJECT_DIR$/chapter-07-Collection/chapter-07-Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-08-Map&amp;&amp;Stream/chapter-08-Map&amp;&amp;Stream.iml" filepath="$PROJECT_DIR$/chapter-08-Map&amp;&amp;Stream/chapter-08-Map&amp;&amp;Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-09-File_IO/chapter-09-File_IO.iml" filepath="$PROJECT_DIR$/chapter-09-File_IO/chapter-09-File_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-10-FileReader_FileWriter/chapter-10-FileReader_FileWriter.iml" filepath="$PROJECT_DIR$/chapter-10-FileReader_FileWriter/chapter-10-FileReader_FileWriter.iml" />
     </modules>
   </component>
 </project>
