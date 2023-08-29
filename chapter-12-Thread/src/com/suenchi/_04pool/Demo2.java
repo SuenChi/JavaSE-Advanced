@@ -10,8 +10,6 @@ import java.util.concurrent.TimeUnit;
  *      2.ThreadPoolExecutor.DiscardPolicy()
  *      3.ThreadPoolExecutor.DiscardOldestPolicy()
  *      4.ThreadPoolExecutor.CallerRunsPolicy()
- *
- *
  */
 public class Demo2 {
     public static void main(String[] args) {
