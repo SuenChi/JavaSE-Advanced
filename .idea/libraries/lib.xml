@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/chapter-11-Properties_XML_Logback/src/com/suenchi/_02XML/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/chapter-11-Properties_XML_Logback/src/com/suenchi/_02XML/lib" recursive="false" />
+  </library>
+</component>

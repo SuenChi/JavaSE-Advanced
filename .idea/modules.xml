@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/chapter-08-Map&amp;&amp;Stream/chapter-08-Map&amp;&amp;Stream.iml" filepath="$PROJECT_DIR$/chapter-08-Map&amp;&amp;Stream/chapter-08-Map&amp;&amp;Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter-09-File_IO/chapter-09-File_IO.iml" filepath="$PROJECT_DIR$/chapter-09-File_IO/chapter-09-File_IO.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter-10-FileReader_FileWriter/chapter-10-FileReader_FileWriter.iml" filepath="$PROJECT_DIR$/chapter-10-FileReader_FileWriter/chapter-10-FileReader_FileWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-11-Properties_XML_Logback/chapter-11-Properties_XML_Logback.iml" filepath="$PROJECT_DIR$/chapter-11-Properties_XML_Logback/chapter-11-Properties_XML_Logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-12-Thread/chapter-12-Thread.iml" filepath="$PROJECT_DIR$/chapter-12-Thread/chapter-12-Thread.iml" />
     </modules>
   </component>
 </project>

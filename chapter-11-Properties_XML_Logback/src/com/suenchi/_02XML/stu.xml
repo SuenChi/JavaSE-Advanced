@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--文档声明必须在第一行 ==> 注释也不能放在第一行-->
+<!--有且仅有一个根标签-->
+<students>
+    <!--学生-->
+    <student>
+        <!--姓名-->
+        <name>张三</name>
+        <!--年龄-->
+        <age>18</age>
+        <!--性别-->
+        <sex>男</sex>
+        <!--专业-->
+        <major>CS</major>
+        <test>&apos;张&apos;是一个字符</test>
+    </student>
+    <student>
+        <name>李四</name>
+        <age>20</age>
+        <sex>女</sex>
+        <major>SE</major>
+        <!--如果要编写多个特殊符号，可以将其放在CDATA区中：`<![CDATA[...内容...]]>`-->
+        <test><![CDATA['李'是一个字符]]></test>
+    </student>
+</students>
